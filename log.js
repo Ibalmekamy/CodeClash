@@ -1,4 +1,4 @@
-const apiKey = '719ce93d-f7ed-4169-b1e4-4c27da50aa1d';
+const apiKey = '2f936df8-eeac-4a4f-95e3-1f43cf7d5ffb'';
         const basketName = 'Storage';
         const apiUrl = `https://getpantry.cloud/apiv1/pantry/${apiKey}/basket/${basketName}`;
 
